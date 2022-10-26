@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragmenty_2_AM</string>
+
+    <string-array name="wynik">
+        <item>1230</item>
+        <item>1450</item>
+        <item>2430</item>
+        <item>3640</item>
+    </string-array>
+</resources>
